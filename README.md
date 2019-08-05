@@ -1,7 +1,7 @@
 # authApi
 Library to enable Token authentication to REST Services
 
-Add the excluded path like this.
+Add the excluded path like this.  
 authentication:  
   exclude:  
       - /v2/api-docs  
