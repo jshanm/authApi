@@ -12,3 +12,8 @@ authentication:
       - /public  
       - /favicon.ico  
       - /users/signup  
+
+TODO:
+ 1.  Header configuration - Configure the header where the token would be reeceuved  
+ 2. How to support both acces and Id Token.
+ 3. Return back the puaid (or the `sub` of the token)
